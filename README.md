@@ -24,6 +24,7 @@ The analysis is based on flight data from the United States Department of Transp
 - **R**: Programming language used for data analysis.
 - **dplyr**: R package for data manipulation.
 - **ggplot**: R package for data visualization.
+- **shiny**: R package for interactive web applications.
 
 ## Structure
 The project includes the following files:
