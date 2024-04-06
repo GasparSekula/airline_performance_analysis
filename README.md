@@ -28,7 +28,7 @@ The analysis is based on flight data from the United States Department of Transp
 ## Structure
 The project includes the following files:
 - `generate.R` and `generate2.R`: R scripts containing the code for data analysis and visualization.
-- `aurlines_most_flights.csv`: CSV file containing the data for Shiny App.
+- `airlines_most_flights.csv`: CSV file containing the data for Shiny App.
 - `app.R`: Shiny App presenting most popular carriers over years.
 - `prezentacja.pdf`: report from the project as a presentation in Polish.
 - `README.md`: This file, providing an overview of the project, its goals, and the technologies used.
