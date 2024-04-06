@@ -27,18 +27,19 @@ The analysis is based on flight data from the United States Department of Transp
 
 ## Structure
 The project includes the following files:
-- `airline_performance_analysis.R`: R script containing the code for data analysis and visualization.
-- `flight_data.csv`: CSV file containing the flight data used for analysis.
+- `generate.R` and `generate2.R`: R scripts containing the code for data analysis and visualization.
+- `aurlines_most_flights.csv`: CSV file containing the data for Shiny App.
+- `app.R`: Shiny App presenting most popular carriers over years.
+- `prezentacja.pdf`: report from the project as a presentation in Polish.
 - `README.md`: This file, providing an overview of the project, its goals, and the technologies used.
 
 ## How to Use
 1. Clone the repository to your local machine.
-2. Open `airline_performance_analysis.R` in RStudio or any text editor supporting R scripts.
+2. Open `generate.R`, `generate2.R` and `app.R` in RStudio or any text editor supporting R scripts.
 3. Run the script to perform the analysis and generate visualizations.
 4. Modify the script or datasets as needed for further exploration.
 
 ## Contributors
-This project was developed by [@GasparSekula] and [@kacperrodziewicz8814], as part of Data Science Engineering Bachelor Programme at Warsaw University of Technology.
+This project was developed by [@Gaspar Sekula](https://github.com/GasparSekula) and [@Kacper Rodziewicz](https://github.com/kacperrodziewicz8814), as part of Data Science Engineering Bachelor Programme at Warsaw University of Technology.
 
-## License
-This project is licensed under the [License Name] License - see the LICENSE.md file for details.
+
