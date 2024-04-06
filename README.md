@@ -1,4 +1,4 @@
-# Airline Performance Analysis Readme 🛫📊
+# Airline Performance Analysis 🛫📊
 
 ## Overview
 This project analyzes flight data in the United States from 1987 to 2008 using R programming language, specifically utilizing `dplyr` for data manipulation and `ggplot` for data visualization.
